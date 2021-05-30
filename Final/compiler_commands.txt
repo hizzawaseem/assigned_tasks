@@ -1,0 +1,8 @@
+For Task 1: 
+g++ -o downloadImages task1_download_images.cpp -lpthread -lcurl
+
+For Task 2:
+g++ -o tcp_server tcp_server.cpp
+g++ -o tcp_client tcp_client.cpp 
+
+The development and testing was completed on Ubuntu 18.04.4 LTS.
